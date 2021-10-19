@@ -11,8 +11,8 @@
   + How backend works with frontend
   + Meet the technologies (overview)
 + Ice-breaker exercises 
-  + Two Truths and One Lie?
-  + One Common Thing?
+  + Two Truths and One Lie
+  + One Common Thing
 
 ### Afternoon 13:00 - 16:15
 
@@ -35,4 +35,4 @@
   + GIT CLI
   + GIT in Visual Code
 + Teambuilding exercises
-  + Virtual Quiz?
+  + Virtual Quiz
