@@ -30,9 +30,5 @@
     + scripts
   + package+lock.json
   + npm CLI
-+ GIT refresher
-  + .gitignore
-  + GIT CLI
-  + GIT in Visual Code
 + Teambuilding exercises
   + Virtual Quiz
