@@ -7,7 +7,7 @@
 + Introduction to Express.js
 + What is a server?
 + **Livecoding**: Building a simple server with Express.js
-+ Request types
++ Request types (introduction)
 + Request parameters
 
 ### Afternoon 13:00 - 16:15
