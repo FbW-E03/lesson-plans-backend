@@ -16,5 +16,4 @@
 
 + **Assignment**: [Environment variables in node.js](https://github.com/FrancoSpeziali/node-environment-variables)
 + Solution to Environment variables in node.js
-+ **Assignment**: [Node process-sum-n-average](https://github.com/DigitalCareerInstitute/Node-process-sum-n-average)
-+ Solution to Node process-sum-n-average
+
