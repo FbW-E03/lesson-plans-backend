@@ -12,10 +12,13 @@
 + Using the dotenv package
 + CLI arguments in node.js (recap)
 
-+ **Live Coding**: [Node Modules Example](https://github.com/GillesDCI/node-modules-example)
+**Live Coding**: [Node Modules Example](https://github.com/GillesDCI/node-modules-example)
 
 ### Afternoon 13:00 - 16:15
 
 + **Assignment**: [Environment variables in node.js](https://github.com/FrancoSpeziali/node-environment-variables)
-+ Solution to Environment variables in node.js
++ **Solution**:  [Environment variables in node.js](https://github.com/GillesDCI/node-environment-variables-solution)
+
++ **Assignment**: [Node modules wrap up exercise](https://github.com/GillesDCI/node-modules-exercise-wrapup)
++ **Solution**:  [Node modules wrap up exercise](https://github.com/GillesDCI/node-modules-wrapup-solution)
 
