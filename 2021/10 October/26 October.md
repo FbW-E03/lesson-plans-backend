@@ -4,7 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Solution**: Working with the node.js filesystem, using Promises
++ **Solution**: [Working with the node.js filesystem, using Promises](https://github.com/FrancoSpeziali/node-file-system-promises-solution)
 + Nodemon
 + Promises with axios
 + **Bootstrapping**: the Node Weather CLI assignment
