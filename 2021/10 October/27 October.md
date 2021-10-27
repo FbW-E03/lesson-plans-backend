@@ -10,6 +10,8 @@
 + Request types (introduction)
 + Request parameters
 
+**Live Coding**: [Express app API example](https://github.com/GillesDCI/express-app-api-example)
+
 ### Afternoon 13:00 - 16:15
 
 + **Assignment**: [Building an almost simple server with Express.js](https://github.com/FrancoSpeziali/express-almost-simple-server)
