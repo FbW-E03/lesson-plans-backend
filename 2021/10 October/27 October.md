@@ -9,6 +9,7 @@
 + **Livecoding**: Building a simple server with Express.js
 + Request types (introduction)
 + Request parameters
++ (Optional) Rendering views in Express.js
 
 **Presentation**: [Introduction to Express.js](https://docs.google.com/presentation/d/1kpgOb-FBKFf0cmJdhsztj31N-x6iQ1BFG_FFA18CAU4/edit?usp=sharing)
 
