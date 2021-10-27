@@ -15,7 +15,7 @@
 + Tools when working with APIs 
   + Postman / Insomnia
 + (Optional) Response Codes
-+ (Optional) Rendering views in Express.js
+
 
 ### Afternoon 13:00 - 16:15
 
