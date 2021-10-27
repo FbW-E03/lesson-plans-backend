@@ -13,3 +13,4 @@
 ### Afternoon 13:00 - 16:15
 
 + **Assignment**: [Building an almost simple server with Express.js](https://github.com/FrancoSpeziali/express-almost-simple-server)
++  (Optional) [Express with a fake database](https://github.com/FrancoSpeziali/express-with-fake-database)
