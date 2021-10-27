@@ -10,6 +10,8 @@
 + Request types (introduction)
 + Request parameters
 
+**Presentation**: [Introduction to Express.js](https://docs.google.com/presentation/d/1kpgOb-FBKFf0cmJdhsztj31N-x6iQ1BFG_FFA18CAU4/edit?usp=sharing)
+
 **Live Coding**: [Express app API example](https://github.com/GillesDCI/express-app-api-example)
 
 ### Afternoon 13:00 - 16:15
