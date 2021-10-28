@@ -16,6 +16,7 @@
   + Postman / Insomnia
 + (Optional) Response Codes
 
+**Live Coding**: [Express http verbs](https://github.com/GillesDCI/express-http-verbs-example)
 
 ### Afternoon 13:00 - 16:15
 
