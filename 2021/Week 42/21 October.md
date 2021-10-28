@@ -22,5 +22,5 @@
 + **Solution**:  [Environment variables in node.js](https://github.com/GillesDCI/node-environment-variables-solution)
 
 + **Assignment**: [Node modules wrap up exercise](https://github.com/GillesDCI/node-modules-exercise-wrapup)
-+ **Solution**:  [Node modules wrap up exercise](https://github.com/GillesDCI/node-modules-wrapup-solution)
++ **Solution**:  [Node modules wrap up exercise](https://github.com/GillesDCI/node-modules-wrapup-solution)_
 
