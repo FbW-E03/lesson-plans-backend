@@ -4,11 +4,13 @@
 
 ### Morning 09:00 - 12:00
 
-+ Validation and Sanitization
-  + What is it?
-  + Why validation and sanitization
-  + [express-validator](https://www.npmjs.com/package/express-validator)
++ Connecting React to the backend
++ CORS
+  + What is CORS
+  + Why CORS?
+  + How to configure CORS
 
 ### Afternoon 13:00 - 16:15
 
-+ **Assignment**: [Using Express-Validator](https://github.com/GillesDCI/validator-assignment)
++ **Assignment**: [Create server with CORS](https://github.com/GillesDCI/post-book-assignment)
++ **Assignment**: [Connect react frontend to the server](https://github.com/GillesDCI/post-book-assignment-frontend)

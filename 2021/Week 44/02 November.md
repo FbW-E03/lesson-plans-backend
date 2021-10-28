@@ -4,12 +4,13 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Solution:** Building a REST API for our solar system
-+ Middleware
-  + express.json()
-  + cors() & CORS overview
-  + writing our own middleware
++ **Solution**: Node weather CLI
+  + Destructuring arrays
++ Talking about APIs
+  + Recap: Requests and Responses
++ Application Routing in Express
++ **Bootstrapping:** Building a REST API for our solar system
 
 ### Afternoon 13:00 - 16:15
 
-+ **Assignment**: [Using middleware to log requests to an API](https://github.com/FrancoSpeziali/express-middleware-logging-requests)
++ **Assignment**: [Building a REST API for our solar system](https://github.com/FrancoSpeziali/express-solar-system-api)

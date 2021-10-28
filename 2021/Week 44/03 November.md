@@ -4,13 +4,12 @@
 
 ### Morning 09:00 - 12:00
 
-+ Connecting React to the backend
-+ CORS
-  + What is CORS
-  + Why CORS?
-  + How to configure CORS
-  
++ **Solution:** Building a REST API for our solar system
++ Middleware
+  + express.json()
+  + cors() & CORS overview
+  + writing our own middleware
+
 ### Afternoon 13:00 - 16:15
 
-+ **Assignment**: [Create server with CORS](https://github.com/GillesDCI/post-book-assignment)
-+ **Assignment**: [Connect react frontend to the server](https://github.com/GillesDCI/post-book-assignment-frontend)
++ **Assignment**: [Using middleware to log requests to an API](https://github.com/FrancoSpeziali/express-middleware-logging-requests)
