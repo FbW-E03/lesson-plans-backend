@@ -23,4 +23,6 @@
 ### Afternoon 13:00 - 16:15
 
 + **Assignment**: [Create an API of cars](https://github.com/GillesDCI/express-http-methods-assignment)
++ **Solution**: [Create an API of cars](https://github.com/GillesDCI/express-http-methods-assignment-solution)
+
 + (Optional) [Express with a fake database](https://github.com/FrancoSpeziali/express-with-fake-database)
