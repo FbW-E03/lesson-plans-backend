@@ -2,6 +2,7 @@
 
 ## Morning 09:00
 
++ Highlights and lowlights
 + Middleware recap
 + Validation and Sanitization
   + What is it?
