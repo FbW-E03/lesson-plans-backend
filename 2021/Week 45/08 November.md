@@ -4,6 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
++ **Solution**: Building a REST API for our solar system
 + Validation and Sanitization
     + What is it?
     + Why validation and sanitization

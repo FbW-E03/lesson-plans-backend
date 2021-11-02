@@ -4,11 +4,11 @@
 
 ### Morning 09:00 - 12:00
 
-+ Connecting React to the backend
 + CORS
   + What is CORS
   + Why CORS?
   + How to configure CORS
++ Connecting React to the backend
 
 ### Afternoon 13:00 - 16:15
 

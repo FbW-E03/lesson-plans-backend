@@ -4,10 +4,10 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Solution:** Building a REST API for our solar system
++ CORS overview
 + Middleware
   + express.json()
-  + cors() & CORS overview
+  + cors()
   + writing our own middleware
 
 ### Afternoon 13:00 - 16:15
