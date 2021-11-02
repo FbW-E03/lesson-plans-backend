@@ -4,7 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Solution**: Node weather CLI
++ **Solution**: [Node weather CLI](https://github.com/FrancoSpeziali/node-weather-cli-solution/tree/solution2)
   + Destructuring arrays
 + Talking about APIs
   + Recap: Requests and Responses
