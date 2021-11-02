@@ -1,16 +1,13 @@
 # Thursday 4th November
 
-## Lesson Plan
+## Morning 09:00
 
-### Morning 09:00 - 12:00
++ Middleware recap
++ Validation and Sanitization
+  + What is it?
+  + Why validation and sanitization
++ [express-validator](https://www.npmjs.com/package/express-validator)
 
-+ CORS
-  + What is CORS
-  + Why CORS?
-  + How to configure CORS
-+ Connecting React to the backend
-
-### Afternoon 13:00 - 16:15
-
-+ **Assignment**: [Create server with CORS](https://github.com/GillesDCI/post-book-assignment)
-+ **Assignment**: [Connect react frontend to the server](https://github.com/GillesDCI/post-book-assignment-frontend)
+## Afternoon 13:00
++ **Assignment**:Assignments of this week (Solar System, post-book-backend)
++ **Assignment**: [validator-assignment](https://github.com/GillesDCI/validator-assignment)
