@@ -5,11 +5,12 @@
 ### Morning 09:00 - 12:00
 
 + **Solution**: Building a REST API for our solar system
-+ Validation and Sanitization
-    + What is it?
-    + Why validation and sanitization
-    + [express-validator](https://www.npmjs.com/package/express-validator)
++ CORS
+  + What is CORS
+  + Why CORS?
+  + How to configure CORS
++ Connecting React to our server
 
 ### Afternoon 13:00 - 16:15
 
-+ **Assignment**: [Using Express-Validator](https://github.com/GillesDCI/validator-assignment)
++ **Assignment**: [Using middleware to log requests to an API](https://github.com/FrancoSpeziali/express-middleware-logging-requests)
