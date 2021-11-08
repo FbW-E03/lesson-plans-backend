@@ -4,7 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Solution**: Building a REST API for our solar system
++ **Solution**: [Building a REST API for our solar system](https://github.com/FrancoSpeziali/express-solar-system-api-solution)
 + Connecting React to our server
   + Building a frontend application in React
   + Forms
