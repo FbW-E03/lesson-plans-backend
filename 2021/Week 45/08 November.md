@@ -9,6 +9,7 @@
   + Building a frontend application in React
   + Forms
   + (optional) React-Tabs
++ [Livecoding: Connecting React to our server](https://github.com/FbW-E03/livecoding-backend/tree/master/react-cors-demo)
 + CORS
   + What is CORS
   + Why CORS?
