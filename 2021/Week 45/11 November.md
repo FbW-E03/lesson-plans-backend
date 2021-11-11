@@ -8,6 +8,8 @@
 + Recap: CORS
 + Creating a Proxy server
 
+**Live Coding**: [Cors proxy example]https://github.com/GillesDCI/cors-proxy-example
+
 ### Afternoon 13:00 - 16:15
 
 + **Assignment**: [Frontend for Solar system API](https://github.com/FrancoSpeziali/react-solar-system)
