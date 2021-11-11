@@ -15,4 +15,4 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ 
++ [CRUD Operation Assignment](https://github.com/GillesDCI/db-crud-operations-assignment)
