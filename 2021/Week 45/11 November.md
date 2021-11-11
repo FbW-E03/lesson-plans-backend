@@ -8,7 +8,8 @@
 + Recap: CORS
 + Creating a Proxy server
 
-**Live Coding**: [Cors proxy example](https://github.com/GillesDCI/cors-proxy-example)
++ **Live Coding**: [Cors proxy example](https://github.com/GillesDCI/cors-proxy-example)
++ **Presentation**: [Proxy server](https://docs.google.com/presentation/d/13dMsRHrG94J1vpPHMpaHWUxR5bnQAmfd8-8CkDwRlfQ/edit?usp=sharing)
 
 ### Afternoon 13:00 - 16:15
 
