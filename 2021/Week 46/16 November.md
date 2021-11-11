@@ -11,8 +11,8 @@
     + models
     + collections
 + Validation
-+ Saving data to the database
 
 ### Afternoon 13:00 - 16:15
 
-+ [Mongoose Schemas + Models](https://github.com/FrancoSpeziali/db-mongoose-schemas)
++ [Virtual Noticeboard](https://github.com/FrancoSpeziali/db-virtual-noticeboard)
++ (optional) [Mongoose Backend for a Registration Form](https://github.com/FrancoSpeziali/db-mongoose-registration)
