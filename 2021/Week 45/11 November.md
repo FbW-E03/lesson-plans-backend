@@ -6,7 +6,7 @@
 
 + Recap: Validation and Sanitization
 + Recap: CORS
-+ Creating a Proxy server - 
++ Creating a Proxy server - [Lesson Recording](https://drive.google.com/file/d/1Qx3VzOoqvA53mOYDA5UJ2LYcB5EITjHc/view?usp=sharing)
 
 + **Live Coding**: [Cors proxy example](https://github.com/GillesDCI/cors-proxy-example)
 + **Presentation**: [Proxy server](https://docs.google.com/presentation/d/13dMsRHrG94J1vpPHMpaHWUxR5bnQAmfd8-8CkDwRlfQ/edit?usp=sharing)
