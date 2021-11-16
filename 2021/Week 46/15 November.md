@@ -8,7 +8,7 @@
     + Create account on Atlas
     + Connecting to your Atlas account
     + Tools (Robo 3T, Compass)
-+ Databases and Schemas & Models
++ Databases and Schemas & Models [Lesson Recording](https://us02web.zoom.us/rec/share/oGLPiT0tsn7CnnayXlDDJ4gP6sn3r0fchf_vQdj87iqpwY-c7ExnZPuY8_1huFjx.cTf4wITgHwdU1A2N?startTime=1636964982000)
 + Saving data to the database
 + Recap async / await
   + try / catch
