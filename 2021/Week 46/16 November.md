@@ -9,7 +9,7 @@
 + Terminology
     + documents & collections
     + schemas & models
-+ Validation
++ Validation [Lesson Recording](https://us02web.zoom.us/rec/share/E1Fmiggnuf1E1VPp5tZfLVK_aKqIGUf33lFqcVPM9e6x9RTmlvEPyHjFCKbfYrBJ._f4S2YHSFihM1NEZ)
 
 ### Afternoon 13:00 - 16:15
 
