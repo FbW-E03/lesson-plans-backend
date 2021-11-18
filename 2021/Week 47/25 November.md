@@ -4,12 +4,15 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Recap** Update Operators
-    + $push
-    + $addToSet
-    + $pop
-    + $set
-    + $unset
++ **Recap** Paginating results
+  + skip()
++ **Recap** References
++ Update Operators
+  + $push
+  + $addToSet
+  + $pop
+  + $set
+  + $unset
 
 ### Afternoon 13:00 - 16:15
 

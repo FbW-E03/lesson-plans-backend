@@ -11,12 +11,11 @@
   + lean()
 + Paginating results
   + skip()
++ References
+  + comparison to SQL
 + Update Operators
   + $push
-  + $addToSet
   + $pop
-  + $set
-  + $unset
   
 ### Afternoon 13:00 - 16:15
 
