@@ -13,6 +13,8 @@
   + Delete
 + POST, PATCH, PUT
 
+**Live Coding**:  [CRUD Operations](https://github.com/GillesDCI/express-http-verbs-example-database)
+
 ### Afternoon 13:00 - 16:15
 
 + [Virtual Noticeboard](https://github.com/FrancoSpeziali/db-virtual-noticeboard)
