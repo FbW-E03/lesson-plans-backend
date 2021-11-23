@@ -4,7 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Solution** [Virtual Noticeboard](https://github.com/FrancoSpeziali/db-virtual-noticeboard)
++ **Solution** [Virtual Noticeboard](https://github.com/FrancoSpeziali/db-virtual-noticeboard-solution)
 + A few common mistakes!
   + Do not commit `.env`
   + Do not commit `node_modules`
