@@ -4,7 +4,6 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Solution**: [Validation](https://github.com/FrancoSpeziali/db-validation)
 + **Recap** CRUD
 + **Recap** Subdocuments in Schemas
 + Loading sample datasets in Atlas MongoDB
@@ -16,4 +15,6 @@
 
 ### Afternoon 13:00 - 16:15
 
++ [Validation](https://github.com/FrancoSpeziali/db-validation)
 + [Restaurants](https://github.com/FrancoSpeziali/db-restaurants)
++ **Solution**: [Validation](https://github.com/FrancoSpeziali/db-validation)
