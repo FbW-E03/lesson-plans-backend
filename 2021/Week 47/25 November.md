@@ -20,3 +20,4 @@
 ### Afternoon 13:00 - 16:15
 
 + **Assignment:** [Create order API assignment](https://github.com/GillesDCI/references-crud-assignment)
++ **Assignemnt (Optional):** [Update operators](https://github.com/GillesDCI/update-operators-assignment)
