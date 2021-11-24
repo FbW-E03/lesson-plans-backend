@@ -4,7 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Recap** CRUD
++ **Recap** CRUD [Lesson Recording](https://us02web.zoom.us/rec/share/qY5nm9Mi3InNzQpG2Q2tE6DqB35gVsEGuq33-AzG0uFLrX9n6A0MqZuuBpCLhcFv.RQtLRpwnhIAUp1P9?startTime=1637656965000)
 + **Recap** Subdocuments in Schemas
 + Loading sample datasets in Atlas MongoDB
 + Additional query methods
