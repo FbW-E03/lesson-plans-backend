@@ -15,6 +15,8 @@
   + Why references?
   + Comparison to SQL
 
+**Live Coding:** [Example references and pagination](https://github.com/GillesDCI/express-references-crud-example)
+
   
 ### Afternoon 13:00 - 16:15
 + **Assignment:** [Create order API assignment](https://github.com/GillesDCI/references-crud-assignment)
