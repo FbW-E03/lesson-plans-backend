@@ -16,6 +16,7 @@
   + $unset
 + Feedback moment
 
+**Live coding:** [Update operators (userRoutes.js)](https://github.com/GillesDCI/update-operators-orders-app)
 
 ### Afternoon 13:00 - 16:15
 
