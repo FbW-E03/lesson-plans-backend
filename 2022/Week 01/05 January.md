@@ -1,11 +1,6 @@
 # Wednesday 5th January
 
-## Lesson Plan
+## Project Week
 
-### Morning 09:00 - 12:00
++ Project time
 
-+ 
-
-### Afternoon 13:00 - 16:15
-
-+ 

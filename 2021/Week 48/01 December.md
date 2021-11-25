@@ -4,8 +4,10 @@
 
 ### Morning 09:00 - 12:00
 
-+ References in documents
++ **Recap** Middleware
++ Introduction to MVC Pattern
+  + Setting up Controllers
 
 ### Afternoon 13:00 - 16:15
 
-+ [Wizards](https://github.com/FrancoSpeziali/db-wizards)
++ Applying MVC pattern to previous assignments
