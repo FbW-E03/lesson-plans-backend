@@ -4,6 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
++ Showcase project from a previous class
 + Authentication & Authorisation
 + Introduce Passport.js
 + **Recap** bcrypt
