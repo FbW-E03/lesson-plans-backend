@@ -4,6 +4,7 @@
 
 ### Morning 09:00 - 12:00
 
++ **Reminder** Finish preparing your CVs to send to employers
 + **Recap** Middleware
 + Introduction to MVC Pattern
   + Setting up Controllers
