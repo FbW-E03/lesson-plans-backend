@@ -15,4 +15,4 @@
 + Continue:
   + [Wizards](https://github.com/FrancoSpeziali/db-wizards)
   + [Pagination assignment](https://github.com/FrancoSpeziali/db-pagination)
-  + [Fullstack pagination](https://github.com/FrancoSpeziali/fullstack-pagination)
+  + (optional)[Fullstack pagination](https://github.com/FrancoSpeziali/fullstack-pagination)
