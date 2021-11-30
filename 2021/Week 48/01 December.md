@@ -11,3 +11,7 @@
 ### Afternoon 13:00 - 16:15
 
 + Applying MVC pattern to previous assignments
++ Continue:
+  + [Wizards](https://github.com/FrancoSpeziali/db-wizards)
+  + [Pagination assignment](https://github.com/FrancoSpeziali/db-pagination)
+  + [Fullstack pagination](https://github.com/FrancoSpeziali/fullstack-pagination)
