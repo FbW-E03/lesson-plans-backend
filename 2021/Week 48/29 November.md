@@ -7,6 +7,7 @@
 + **Recap** Subdocuments
 + **Recap** References in documents
 + Subdocuments vs References
++ [Lesson Recording](https://us02web.zoom.us/rec/share/7f3_qZkZCD2NpPLrPu0pqNsDGY9Ct4YFMrLg2m0opefRdAv7bdXTApreQYq3hOeL.980fCPFufXf9EQsA)
 
 ### Afternoon 13:00 - 16:15
 
