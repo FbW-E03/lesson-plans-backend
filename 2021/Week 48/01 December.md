@@ -9,6 +9,9 @@
 + Introduction to MVC Pattern
   + Setting up Controllers
 
+
++ **Solution** Refrences-crud-assignment: [References crud assignment](https://github.com/GillesDCI/references-crud-assignment-solution-excluding-bonus)
+
 ### Afternoon 13:00 - 16:15
 
 + Applying MVC pattern to previous assignments
