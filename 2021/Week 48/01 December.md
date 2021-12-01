@@ -9,8 +9,7 @@
 + Introduction to MVC Pattern [Lesson Recording](https://drive.google.com/file/d/1mcWS1A7ADHfYwhtY4YHkB1ZxZm5Z4Kbt/view?usp=sharing)
   + Why MVC
   + Setting up Controllers
-
-
+  
 + **Live Coding** [Refactoring to MVC](https://github.com/GillesDCI/project-order-management-mvc-example)
 
 + **Solution** Refrences-crud-assignment: [References crud assignment](https://github.com/GillesDCI/references-crud-assignment-solution-excluding-bonus)
