@@ -6,7 +6,7 @@
 
 + **Reminder** Finish preparing your CVs to send to employers
 + **Recap** Middleware
-+ Introduction to MVC Pattern
++ Introduction to MVC Pattern [Lesson Recording](https://drive.google.com/file/d/1mcWS1A7ADHfYwhtY4YHkB1ZxZm5Z4Kbt/view?usp=sharing)
   + Setting up Controllers
 
 
