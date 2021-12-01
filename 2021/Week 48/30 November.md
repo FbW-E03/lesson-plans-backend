@@ -6,6 +6,7 @@
 
 + **Recap** Pagination
 + Frontend pagination
++ [Handling Pagination - Backend - Frontend](https://us02web.zoom.us/rec/share/WUf-OobPHG-jkJwX38Seoh_097EECUlzKxr2RlEWJ0hZVpfi2ZJ8yPJD8X6bHqqn.ec5tr_YmzZzFn7oa)
 
 ### Afternoon 13:00 - 16:15
 
