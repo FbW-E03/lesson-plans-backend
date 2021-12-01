@@ -10,6 +10,8 @@
 + Hashes
 + Salt
 
++ Solution to bonus of references crud assignment (Inventory)
+
 ### Afternoon 13:00 - 16:15
 
 + [Playing with bcrypt](https://github.com/FrancoSpeziali/security-playing-with-bcrypt)
