@@ -5,8 +5,8 @@
 ### Morning 09:00 - 12:00
 
 + **Reminder** Finish preparing your CVs to send to employers
-+ Introduction to Authentication & Authorisation
-+ bcrypt
++ Introduction to Authentication & Authorisation  [Lesson Recording](https://drive.google.com/file/d/1XtapyXCrBVKNqot822IGWaNT0tue15qD/view?usp=sharing)
++ bcrypt  ()
 + Hashes
 + Salt
 
