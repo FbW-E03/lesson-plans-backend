@@ -10,6 +10,7 @@
 + Hashes
 + Salt
 
+**Live Coding**: [Hashing Passwords](https://github.com/GillesDCI/hashing-passwords-example)
 + Solution to bonus of references crud assignment (Inventory)
 
 ### Afternoon 13:00 - 16:15
