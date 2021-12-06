@@ -6,6 +6,7 @@
 
 + **Reminder** Finish preparing your CVs to send to employers
 + Showcase project from a previous class
+
 + Authentication & Authorisation
 + JWT tokens
   + What is JWT

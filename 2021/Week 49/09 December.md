@@ -4,8 +4,9 @@
 
 ### Morning 09:00 - 12:00
 
-+ **Recap** JWT
++ **Recap** Passport.js
++ Passport.js strategies
 
 ### Afternoon 13:00 - 16:15
 
-+ 
++ [Practice the use of passport with session based authentication](https://github.com/GillesDCI/passport-assignment)

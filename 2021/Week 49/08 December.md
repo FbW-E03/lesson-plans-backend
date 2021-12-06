@@ -6,7 +6,9 @@
 
 + Authorisation
 + Passport.js
+  + Using passport as middleware
+  + Using passport with request headers
 
 ### Afternoon 13:00 - 16:15
 
-+ Assignment: 
++ [JWT Implementing Passport](https://github.com/GillesDCI/jwt-passport-assignment)
