@@ -6,6 +6,8 @@
 
 + **Recap** Passport.js
 + Passport.js strategies
+  + LocalStrategy
+  + Example Application
 
 ### Afternoon 13:00 - 16:15
 
