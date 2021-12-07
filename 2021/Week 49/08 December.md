@@ -6,8 +6,12 @@
 
 + Authorisation
 + Passport.js
+  + What is it? 
+  + Why do we use it? 
   + Using passport as middleware
   + Using passport with request headers
+ 
++ Authentication middleware advanced example
 
 ### Afternoon 13:00 - 16:15
 
