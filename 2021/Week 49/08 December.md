@@ -11,7 +11,7 @@
   + Using passport as middleware
   + Using passport with request headers
  
-+ Authentication middleware advanced example
++ Authentication middleware example (roles)
 
 ### Afternoon 13:00 - 16:15
 
