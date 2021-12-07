@@ -16,6 +16,8 @@
 + **Recap** bcrypt
 + **Recap** Salt & Hash
 
+[Lesson Recording](https://us02web.zoom.us/rec/share/rYCXqwR2eVsQo-a_5AcqM6zQKqucxma9LQZtVLfYGyz92IvFBA2nxhUyumJi1Z8s.MMdgdw7YPZOKeHdj)
+
 ### Afternoon 13:00 - 16:15
 
 + [Security JWT Issuer](https://github.com/FrancoSpeziali/security-jwt-issuer)
