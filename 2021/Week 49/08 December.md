@@ -13,6 +13,8 @@
  
 + Authentication middleware example (roles)
 
+**Live Coding:** [Orders App](https://github.com/GillesDCI/orders-app-example-jwt)
+
 ### Afternoon 13:00 - 16:15
 
 + [JWT Implementing Passport](https://github.com/GillesDCI/jwt-passport-assignment)
