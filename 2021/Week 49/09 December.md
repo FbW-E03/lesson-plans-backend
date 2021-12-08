@@ -5,6 +5,7 @@
 ### Morning 09:00 - 12:00
 
 + **Recap** Passport.js
++ Advanced middleware roles example
 + Passport.js strategies
   + LocalStrategy
   + Example Application
