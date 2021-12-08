@@ -5,7 +5,7 @@
 ### Morning 09:00 - 12:00
 
 + Authorisation
-+ Passport.js
++ Passport.js [Lesson recording](https://drive.google.com/file/d/1N3Z4bcCSUnQ1vji24U-aBiWPiggg0ydW/view?usp=sharing)
   + What is it? 
   + Why do we use it? 
   + Using passport as middleware
