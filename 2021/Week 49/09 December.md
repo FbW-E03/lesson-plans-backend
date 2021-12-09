@@ -9,6 +9,8 @@
 + Passport.js strategies
   + LocalStrategy
   + Example Application
+ 
+**Live Coding:** [Passport Local Strategy](https://github.com/GillesDCI/ejs-passport-example-live)
 
 ### Afternoon 13:00 - 16:15
 
