@@ -16,4 +16,4 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ [Practice the use of passport with session based authentication](https://github.com/GillesDCI/passport-assignment)
++ (OPTIONAL) [Practice the use of passport with session based authentication](https://github.com/GillesDCI/passport-assignment)
