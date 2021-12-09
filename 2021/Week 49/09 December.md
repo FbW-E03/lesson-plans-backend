@@ -11,6 +11,8 @@
   + Example Application
  
 **Live Coding:** [Passport Local Strategy](https://github.com/GillesDCI/ejs-passport-example-live)
+ 
+**Live Coding:** [Passport User Roles](https://github.com/GillesDCI/orders-app-passport-jwt-extra)
 
 ### Afternoon 13:00 - 16:15
 
