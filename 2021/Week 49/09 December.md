@@ -6,9 +6,12 @@
 
 + **Recap** Passport.js
 + Advanced middleware roles example
-+ Passport.js strategies
++ Passport.js strategies 
   + LocalStrategy
   + Example Application
+ 
+ **Lesson recording:** [Lesson Recording](https://drive.google.com/file/d/1mJkGO4GyEo_0OgrMC6MAmDQNKxOmOhIY/view?usp=sharing)
+ 
  
 **Live Coding:** [Passport Local Strategy](https://github.com/GillesDCI/ejs-passport-example-live)
  
