@@ -12,4 +12,4 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ security jwt httpOnly
++ [Security JWT httpOnly](https://github.com/FrancoSpeziali/security-jwt-httpOnly)
