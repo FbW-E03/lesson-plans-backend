@@ -11,4 +11,4 @@
 
 ### Afternoon 13:00 - 16:15
 
-+ security jwt with Context API
++ [Handling user logged in status with React's Context API](https://github.com/FrancoSpeziali/security-jwt-httpOnly-logout)
