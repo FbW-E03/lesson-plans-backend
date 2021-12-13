@@ -7,7 +7,7 @@
 
     - So as a simplified example if you go to site A which uses an ad network, that ad network can record that you were on that site by placing a tracking cookie on your PC.
 
-    - Then when you go to Site B which uses the same ad network, the ad network reads the cookie that was set when you were on Site A (which it can do 'cause it's loading content from it's domains in both cases so it doesn't break same origin) and can then offer you adverts based on your browsing habits.
+    - Then when you go to Site B which uses the same ad network, the ad network reads the cookie that was set when you were on Site A (which it can do 'cause it's loading content from its domains in both cases so it doesn't break same origin) and can then offer you adverts based on your browsing habits.
 
 
 ## Special type of cookie, called httpOnly
