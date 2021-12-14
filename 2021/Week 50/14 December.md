@@ -6,6 +6,7 @@
 
 + **Poll** Topics for wrap up Thursday
 + **Recap** JWT in frontend
++ Logout with httpOnly cookies
 + Context API
   + Storing login data with Context API
 
