@@ -13,3 +13,4 @@
 
 + **First aid & Solution** db-validation
 + [Wizards](https://github.com/FrancoSpeziali/db-wizards)
++ [Wizards Solution](https://github.com/FrancoSpeziali/db-wizards-solution)
