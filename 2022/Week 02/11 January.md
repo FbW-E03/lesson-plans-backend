@@ -8,8 +8,10 @@
   + What makes a good developer?
   + What you will learn
   + How we will be working - Agile development, Sprints, Standups
-+ Finding project ideas
-+ Form teams
++ Organising groups
+  + Finding project ideas
+  + Pitching ideas (gathering members)
+  + Forming teams
 + Prototype ideas either on paper or coding
 + Create full feature list
 
