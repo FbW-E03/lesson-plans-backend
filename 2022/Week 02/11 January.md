@@ -15,4 +15,6 @@
 + Prototype ideas either on paper or coding
 + Create full feature list
 
-[Final Project Overview](https://docs.google.com/document/d/1ihU1kfWLNLp_3myWbfnjO7eaABVuu6xUdBLnjc0g7W8/edit?usp=sharing)
+[Final Project Overview](https://docs.google.com/document/d/1ihU1kfWLNLp_3myWbfnjO7eaABVuu6xUdBLnjc0g7W8/edit?usp=sharing
+
+[How will we be working](./11%20January%20Notes.md)
