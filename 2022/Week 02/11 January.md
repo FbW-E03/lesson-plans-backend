@@ -17,6 +17,8 @@
 
 [Final Project Overview](https://docs.google.com/document/d/1ihU1kfWLNLp_3myWbfnjO7eaABVuu6xUdBLnjc0g7W8/edit?usp=sharing)
 
+[Agile Development](./11%20January%20Notes%20-%20Agile%20development.md)
+
 [How will we be working](./11%20January%20Notes%20-%20How%20we%20will%20be%20working.md)
 
 [What makes a good developer?](./11%20January%20Notes%20-%20What%20makes%20a%20good%20developer.md)
